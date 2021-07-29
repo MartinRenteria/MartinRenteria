@@ -2,6 +2,10 @@
 
 <p>Welcome to my Github! I'm a full-stack software engineer based out of Bellevue, WA. I love to learn and the field of web deveopment. When am not coding I love to spend time outdoors hiking, playing video games and be with my family. I have made a lot of neat projects so feel free to check them out!  <p/>
 
+<p>Please follow me on LinkedIn!<p/> 
+<a href="https://www.linkedin.com/in/martin-renteria/"><image src="https://img.shields.io/badge/linkedin-Martin--Renteria-blue" alt="LinkedIn Profile" /></a>
+
+
 ## Languages
 <div style="margin: 1em 0;">
   <image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50" />
