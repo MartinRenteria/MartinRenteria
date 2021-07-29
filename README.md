@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p>Welcome to my Github! Am a full-stack software engineer based out of Bellevue, WA. When am not coding I love to spend time outdoors hiking, playing video games and spending time with my family. I have made a lot of neat projects so feel free to check them out!  <p/>
+
 ## Languages
 <div style="margin: 1em 0;">
   <image src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="50" />
