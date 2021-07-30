@@ -4,7 +4,7 @@
 
 <p>Please follow me on LinkedIn!<p/> 
 <a href="https://www.linkedin.com/in/martin-renteria/"><image src="https://img.shields.io/badge/linkedin-Martin--Renteria-blue" alt="LinkedIn Profile" /></a>
-<p>If you want to reach me for any business related inquiries, you can reach me at: renteriamp96@gmail.com/p>
+<p>If you want to reach me for any business related inquiries, please email me at: renteriamp96@gmail.com</p>
 
 
 ## Languages
