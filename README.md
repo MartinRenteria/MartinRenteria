@@ -1,11 +1,25 @@
 ### Hi there 👋
 
-<p>Welcome to my Github! I'm a full-stack software engineer based out of Bellevue, WA. I love to learn, solve problems, and create user-friendly applications! When am not coding I love to spend time outdoors hiking, playing video games and being with my family. I have made a lot of neat projects so feel free to check them out!  <p/>
+<p>Welcome to my GitHub! I'm a Full-Stack Software Engineer based out of Bellevue, WA, currently expanding my expertise into Cloud Infrastructure and Automation through the Per Scholas AWS re/Start program. 
+
+I bridge the gap between building high-performance software and deploying it at scale. I specialize in modern JavaScript ecosystems alongside robust AWS cloud architectures.
+
+When I'm not coding or configuring cloud resources, I love hiking outdoors, playing video games, and spending time with my family. <p/>
 
 <p>Please follow me on LinkedIn!<p/> 
 <a href="https://www.linkedin.com/in/martin-renteria/"><image src="https://img.shields.io/badge/linkedin-Martin--Renteria-blue" alt="LinkedIn Profile" /></a>
 <p>If you want to reach me for any business related inquiries, please email me at: renteriamp96@gmail.com</p>
 
+## Tech Stack & Tooling
+
+### 💻 Software Engineering
+HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Node.js, Express, Sass
+
+### ☁️ Cloud & DevOps (Active Focus)
+AWS (EC2, S3, Lambda, VPC), Linux System Administration, Bash Scripting, Docker, Kubernetes
+
+### 🗄️ Databases & Frameworks
+PostgreSQL, MySQL, MongoDB, Drizzle ORM
 
 ## Languages
 <div style="margin: 1em 0;">
