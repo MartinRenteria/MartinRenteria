@@ -6,9 +6,13 @@ I bridge the gap between building high-performance software and deploying it at 
 
 When I'm not coding or configuring cloud resources, I love hiking outdoors, playing video games, and spending time with my family. <p/>
 
-<p>Please follow me on LinkedIn!<p/> 
-<a href="https://www.linkedin.com/in/martin-renteria/"><image src="https://img.shields.io/badge/linkedin-Martin--Renteria-blue" alt="LinkedIn Profile" /></a>
-<p>If you want to reach me for any business related inquiries, please email me at: renteriamp96@gmail.com</p>
+## 🔗 Connect With Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/martin-renteria/"><img src="https://img.shields.io/badge/LinkedIn-Martin--Renteria-white?labelColor=0A66C2&logo=linkedin&logoColor=white" alt="Martin Renteria's LinkedIn Profile" /></a><br/><br/>
+  <a href="mailto:renteriamp96@gmail.com"><img src="https://img.shields.io/badge/Email-renteriamp96%40gmail.com-white?labelColor=EA4335&logo=gmail&logoColor=white" alt="Email Martin Renteria" /></a><br/><br/>
+  <a href="https://martin-renteria-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Martin--Renteria-white?labelColor=202124&logo=googlechrome&logoColor=white" alt="Martin Renteria's Portfolio" /><br/>
+</div>
 
 ## Tech Stack & Tooling
 
